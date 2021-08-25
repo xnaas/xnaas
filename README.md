@@ -2,8 +2,8 @@
 
 ## Top Public Projects
 
-* ![nitter-instances](https://img.shields.io/github/stars/xnaas/nitter-instances?color=d4af37&label=nitter-instances&style=for-the-badge)
-* ![bcvc](https://img.shields.io/github/stars/xnaas/bcvc?color=d4af37&label=bcvc&style=for-the-badge)
+[![nitter-instances](https://img.shields.io/github/stars/xnaas/nitter-instances?color=success&label=nitter-instances&style=for-the-badge)](https://github.com/xnaas/nitter-instances)
+[![bcvc](https://img.shields.io/github/stars/xnaas/bcvc?color=success&label=bandcamp+volume+control&style=for-the-badge)](https://github.com/xnaas/bcvc)
 
 ## Stylus
 
