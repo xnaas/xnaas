@@ -22,7 +22,7 @@
 ## Misc.
 
 * [.bash_aliases](https://github.com/xnaas/.bash_aliases)
-* [custom-sopel-plugins(https://github.com/xnaas/custom-sopel-plugins)
+* [custom-sopel-plugins](https://github.com/xnaas/custom-sopel-plugins)
 * [ffmpeg-custom-compile](https://github.com/xnaas/ffmpeg-custom-compile)
 
 # Contact
