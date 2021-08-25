@@ -1,16 +1,30 @@
-### Hi there 👋
+# Projects
 
-<!--
-**xnaas/xnaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Top Public Projects
 
-Here are some ideas to get you started:
+* [nitter-instances](https://github.com/xnaas/nitter-instances)
+* [bcvc](https://github.com/xnaas/bcvc) (Bandcamp Volume Control)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stylus
+
+* [stylus-apod-dracula](https://github.com/xnaas/stylus-apod-dracula)
+* [stylus-hackernews-solarized](https://github.com/xnaas/stylus-hackernews-solarized)
+* [stylus-plex-modals](https://github.com/xnaas/stylus-plex-modals)
+* [stylus-teslamate-dark](https://github.com/xnaas/stylus-teslamate-dark)
+* [stylus-tvmaze-dark](https://github.com/xnaas/stylus-tvmaze-dark)
+
+## Status Pages
+
+* [asak-status](https://github.com/xnaas/asak-status)
+* [nitter-instances](https://github.com/xnaas/nitter-instances)
+* [status](https://github.com/xnaas/status)
+
+## Misc.
+
+* [.bash_aliases](https://github.com/xnaas/.bash_aliases)
+* [ffmpeg-custom-compile](https://github.com/xnaas/ffmpeg-custom-compile)
+
+## Contact
+
+* [email](mailto:me@xnaas.info)
+* [pgp](https://github.com/xnaas/pgp)
