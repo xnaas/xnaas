@@ -2,8 +2,8 @@
 
 ## Top Public Projects
 
-* [nitter-instances](https://github.com/xnaas/nitter-instances)
-* [bcvc](https://github.com/xnaas/bcvc) (Bandcamp Volume Control)
+* [nitter-instances](https://github.com/xnaas/nitter-instances) ![GitHub Repo stars](https://img.shields.io/github/stars/xnaas/nitter-instances?color=d4af37&style=flat-square)
+* [bcvc](https://github.com/xnaas/bcvc) (Bandcamp Volume Control) ![GitHub Repo stars](https://img.shields.io/github/stars/xnaas/bcvc?color=d4af37&style=flat-square)
 
 ## Stylus
 
