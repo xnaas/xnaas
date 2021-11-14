@@ -21,6 +21,7 @@
 
 ## Docker
 
+* [docker-bibliogram](https://github.com/xnaas/docker-bibliogram)
 * [docker-murmur](https://github.com/xnaas/docker-murmur)
 
 ## Misc.
