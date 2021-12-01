@@ -19,17 +19,24 @@
 * [nitter-instances](https://github.com/xnaas/nitter-instances)
 * [status](https://github.com/xnaas/status)
 
-## Docker
+## Containers
 
 * [docker-bibliogram](https://github.com/xnaas/docker-bibliogram)
 * [docker-murmur](https://github.com/xnaas/docker-murmur)
 
+## Homelab
+
+* [docker-compose.yml](https://github.com/xnaas/docker-compose.yml)
+* [nginx/fail2ban](https://github.com/xnaas/nginx)
+
 ## Misc.
 
 * [.bash_aliases](https://github.com/xnaas/.bash_aliases)
+* [asak](https://actionsack.com) ([source code](https://github.com/xnaas/actionsack.com))
 * [custom-sopel-plugins](https://github.com/xnaas/custom-sopel-plugins)
 * [ffmpeg-custom-compile](https://github.com/xnaas/ffmpeg-custom-compile)
-* [shrtlnk](https://github.com/xnaas/shrtlnk)
+* [kb](https://kb.xnaas.info) ([source code](https://github.com/xnaas/kb.xnaas.info))
+* [shrtlnk](https://shrtlnk.win) ([source code](https://github.com/xnaas/shrtlnk))
 
 # Contact
 
