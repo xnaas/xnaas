@@ -16,6 +16,7 @@
 ## Status Pages
 
 * [asak-status](https://github.com/xnaas/asak-status)
+* [bibliogram-instances](https://github.com/xnaas/bibliogram-instances)
 * [nitter-instances](https://github.com/xnaas/nitter-instances)
 * [status](https://github.com/xnaas/status)
 
