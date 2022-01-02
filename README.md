@@ -22,7 +22,7 @@
 
 ## Containers
 
-* [docker-bibliogram](https://github.com/xnaas/docker-bibliogram)
+* [bibliogram](https://github.com/xnaas/docker-bibliogram/pkgs/container/bibliogram)
 * [docker-murmur](https://github.com/xnaas/docker-murmur)
 * [rimgu](https://github.com/xnaas/docker-rimgu/pkgs/container/rimgu)
 
