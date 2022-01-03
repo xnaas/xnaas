@@ -34,11 +34,11 @@
 ## Misc.
 
 * [.bash_aliases](https://github.com/xnaas/.bash_aliases)
-* [asak](https://actionsack.com) ([source code](https://github.com/xnaas/actionsack.com))
+* [actionsack.com](https://actionsack.com) ([source code](https://github.com/xnaas/actionsack.com))
 * [custom-sopel-plugins](https://github.com/xnaas/custom-sopel-plugins)
 * [ffmpeg-custom-compile](https://github.com/xnaas/ffmpeg-custom-compile)
-* [kb](https://kb.xnaas.info) ([source code](https://github.com/xnaas/kb.xnaas.info))
-* [shrtlnk](https://shrtlnk.win) ([source code](https://github.com/xnaas/shrtlnk))
+* [kb.xnaas.info](https://kb.xnaas.info) ([source code](https://github.com/xnaas/kb.xnaas.info))
+* [shrtlnk.win](https://shrtlnk.win) ([source code](https://github.com/xnaas/shrtlnk))
 
 # Contact
 
