@@ -22,9 +22,10 @@
 
 ## Containers
 
-* [bibliogram](https://github.com/xnaas/docker-bibliogram/pkgs/container/bibliogram)
+* [bibliogram](https://ghcr.io/xnaas/bibliogram)
+* [caddy](https://ghcr.io/xnaas/caddy)
 * [docker-murmur](https://github.com/xnaas/docker-murmur)
-* [rimgu](https://github.com/xnaas/docker-rimgu/pkgs/container/rimgu)
+* [rimgu](https://ghcr.io/xnaas/rimgu)
 
 ## Homelab
 
