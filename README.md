@@ -23,7 +23,7 @@
 
 * [bibliogram](https://ghcr.io/xnaas/bibliogram)
 * [caddy](https://ghcr.io/xnaas/caddy)
-* [docker-murmur](https://github.com/xnaas/docker-murmur)⚠
+* [murmur](https://ghcr.io/xnaas/murmur)
 * [rimgo](https://ghcr.io/xnaas/rimgo)
 
 ## Homelab
