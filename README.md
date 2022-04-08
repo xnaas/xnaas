@@ -15,9 +15,10 @@
 
 ## Status Pages
 
-* [asak-status](https://github.com/xnaas/asak-status)
-* [nitter-instances](https://github.com/xnaas/nitter-instances)
-* [status](https://github.com/xnaas/status)
+* [asak-status](https://status.actionsack.com) ([source](https://github.com/xnaas/asak-status))
+* [nitter-instances](https://xnaas.github.io/nitter-instances/)
+* [rimgo-instances](https://xnaas.github.io/rimgo-instances/)
+* [status](https://status.xnaas.info) ([source](https://github.com/xnaas/status))
 
 ## Containers
 
@@ -33,11 +34,11 @@
 
 ## Misc.
 
-* [actionsack.com](https://actionsack.com) ([source code](https://github.com/xnaas/actionsack.com))
+* [actionsack.com](https://actionsack.com) ([source](https://github.com/xnaas/actionsack.com))
 * [custom-sopel-plugins](https://github.com/xnaas/custom-sopel-plugins)
 * [ffmpeg-custom-compile](https://github.com/xnaas/ffmpeg-custom-compile)
-* [kb.xnaas.info](https://kb.xnaas.info) ([source code](https://github.com/xnaas/kb.xnaas.info))
-* [shrtlnk.win](https://shrtlnk.win) ([source code](https://github.com/xnaas/shrtlnk))
+* [kb.xnaas.info](https://kb.xnaas.info) ([source](https://github.com/xnaas/kb.xnaas.info))
+* [shrtlnk.win](https://shrtlnk.win) ([source](https://github.com/xnaas/shrtlnk))
 
 # Contact
 
