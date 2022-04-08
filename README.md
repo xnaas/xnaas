@@ -15,10 +15,10 @@
 
 ## Status Pages
 
-* [asak-status](https://status.actionsack.com) ([source](https://github.com/xnaas/asak-status))
 * [nitter-instances](https://xnaas.github.io/nitter-instances/)
 * [rimgo-instances](https://xnaas.github.io/rimgo-instances/)
-* [status](https://status.xnaas.info) ([source](https://github.com/xnaas/status))
+* [status.actionsack.com](https://status.actionsack.com) ([source](https://github.com/xnaas/asak-status))
+* [status.xnaas.info](https://status.xnaas.info) ([source](https://github.com/xnaas/status))
 
 ## Containers
 
