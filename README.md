@@ -27,18 +27,14 @@
 * [murmur](https://ghcr.io/xnaas/murmur)
 * [rimgo](https://ghcr.io/xnaas/rimgo)
 
-## Homelab
-
-* [docker-compose.yml](https://github.com/xnaas/docker-compose.yml)
-* [webserver](https://github.com/xnaas/webserver)
-
-## Misc.
+## etc.
 
 * [actionsack.com](https://actionsack.com) ([source](https://github.com/xnaas/actionsack.com))
 * [custom-sopel-plugins](https://github.com/xnaas/custom-sopel-plugins)
 * [ffmpeg-custom-compile](https://github.com/xnaas/ffmpeg-custom-compile)
 * [kb.xnaas.info](https://kb.xnaas.info) ([source](https://github.com/xnaas/kb.xnaas.info))
 * [shrtlnk.win](https://shrtlnk.win) ([source](https://github.com/xnaas/shrtlnk))
+* [webserver](https://github.com/xnaas/webserver)
 
 # Contact
 
