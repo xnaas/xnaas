@@ -26,6 +26,7 @@
 * [caddy](https://ghcr.io/xnaas/caddy)
 * [murmur](https://ghcr.io/xnaas/murmur)
 * [rimgo](https://ghcr.io/xnaas/rimgo)
+* [send](https://ghcr.io/xnaas/send)
 
 ## etc.
 
